@@ -1,0 +1,50 @@
+12:15:28.538 [main] INFO  api.test.DDTUserTestsNumpy - -------------Updating the User Details---------
+12:15:28.923 [main] INFO  api.test.DDTUserTestsNumpy - ---------Updated User By ID Successfully-------
+12:15:28.924 [main] INFO  api.test.DDTUserTestsNumpy - ---------Update User Details----------
+12:15:28.924 [main] INFO  api.test.DDTUserTestsNumpy - -------------Updating the User Details---------
+12:15:28.925 [main] INFO  api.test.DDTUserTestsNumpy - ---------Update User Details----------
+12:15:28.925 [main] INFO  api.test.DDTUserTestsNumpy - -------------Updating the User Details---------
+12:15:29.308 [main] INFO  api.test.DDTUserTestsNumpy - ---------Updated User By ID Successfully-------
+12:15:29.309 [main] INFO  api.test.DDTUserTestsNumpy - ---------Update User Details----------
+12:15:29.309 [main] INFO  api.test.DDTUserTestsNumpy - -------------Updating the User Details---------
+12:15:29.686 [main] INFO  api.test.DDTUserTestsNumpy - ---------Updated User By ID Successfully-------
+12:15:29.687 [main] INFO  api.test.DDTUserTestsNumpy - ---------Update User Details----------
+12:15:29.687 [main] INFO  api.test.DDTUserTestsNumpy - -------------Updating the User Details---------
+12:15:30.071 [main] INFO  api.test.DDTUserTestsNumpy - ---------Updated User By ID Successfully-------
+12:15:30.072 [main] INFO  api.test.DDTUserTestsNumpy - ---------Update User Details----------
+12:15:30.072 [main] INFO  api.test.DDTUserTestsNumpy - -------------Updating the User Details---------
+12:15:30.438 [main] INFO  api.test.DDTUserTestsNumpy - ---------Updated User By ID Successfully-------
+12:15:30.439 [main] INFO  api.test.DDTUserTestsNumpy - ---------Update User Details----------
+12:15:30.439 [main] INFO  api.test.DDTUserTestsNumpy - -------------Updating the User Details---------
+12:15:30.818 [main] INFO  api.test.DDTUserTestsNumpy - ---------Updated User By ID Successfully-------
+12:15:30.819 [main] INFO  api.test.DDTUserTestsNumpy - ---------Update User Details----------
+12:15:30.819 [main] INFO  api.test.DDTUserTestsNumpy - -------------Updating the User Details---------
+12:15:31.198 [main] INFO  api.test.DDTUserTestsNumpy - ---------Updated User By ID Successfully-------
+12:15:31.638 [main] INFO  api.test.DDTUserTestsNumpy - -------Delete User By ID-------------
+12:15:32.026 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By ID Successfully-------
+12:15:32.027 [main] INFO  api.test.DDTUserTestsNumpy - -------Delete User By ID-------------
+12:15:32.410 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By ID Successfully-------
+12:15:32.411 [main] INFO  api.test.DDTUserTestsNumpy - -------Delete User By ID-------------
+12:15:32.831 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By ID Successfully-------
+12:15:32.832 [main] INFO  api.test.DDTUserTestsNumpy - -------Delete User By ID-------------
+12:15:33.208 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By ID Successfully-------
+12:15:33.209 [main] INFO  api.test.DDTUserTestsNumpy - -------Delete User By ID-------------
+12:15:33.588 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By ID Successfully-------
+12:15:33.589 [main] INFO  api.test.DDTUserTestsNumpy - -------Delete User By ID-------------
+12:15:33.971 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By ID Successfully-------
+12:15:33.971 [main] INFO  api.test.DDTUserTestsNumpy - -------Delete User By ID-------------
+12:15:34.346 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By ID Successfully-------
+12:15:34.347 [main] INFO  api.test.DDTUserTestsNumpy - -------Delete User By ID-------------
+12:15:34.723 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By ID Successfully-------
+12:15:34.724 [main] INFO  api.test.DDTUserTestsNumpy - -------Delete User By ID-------------
+12:15:35.121 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By ID Successfully-------
+12:15:35.123 [main] INFO  api.test.DDTUserTestsNumpy - -------------Creating new User---------
+12:15:36.191 [main] INFO  api.test.DDTUserTestsNumpy - --------------Delete User By FirstName--------
+12:15:36.566 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By FirstName Successfully-------
+12:15:36.568 [main] INFO  api.test.DDTUserTestsNumpy - --------------Delete User By FirstName--------
+12:15:36.945 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By FirstName Successfully-------
+12:15:36.946 [main] INFO  api.test.DDTUserTestsNumpy - --------------Delete User By FirstName--------
+12:15:37.378 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By FirstName Successfully-------
+12:15:37.380 [main] INFO  api.test.DDTUserTestsNumpy - --------------Delete User By FirstName--------
+12:15:37.749 [main] INFO  api.test.DDTUserTestsNumpy - ---------Deleted User By FirstName Successfully-------
+12:15:37.751 [main] INFO  api.test.DDTUserTestsNumpy - --------------Delete User By FirstName--------
